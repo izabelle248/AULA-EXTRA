@@ -7,8 +7,14 @@
 
 .section1{
    background-color: blue; 
+   padding: 100px;
 }
 
 .section2{
     background-color: red;
+    padding: 120px;
+}
+
+.cabecalho imagem{
+    width: 20%;
 }
